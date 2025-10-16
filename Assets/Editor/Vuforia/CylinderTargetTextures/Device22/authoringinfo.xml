@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="naveEspacial" version="3.0" targetId="d39253376edc40bd981465ff67c703a2" sideLength="1.149800" topDiameter="0.673900" bottomDiameter="0.673900" sideImage="naveEspacial.Body_scaled.jpg" topImage="naveEspacial.Top_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
